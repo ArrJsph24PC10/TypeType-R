@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "react-app",
+    "plugin:storybook/recommended"
+  ],
+  "rules": {
+    "jsx-a11y/accessible-emoji": "warn"
+  }
+}

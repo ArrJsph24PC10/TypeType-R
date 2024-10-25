@@ -1,0 +1,311 @@
+{
+  "averageWPM": 2,
+  "dataPoints": [
+    {
+      "attemptPeak": true,
+      "elapsedTime": 37895,
+      "wordsPerMinute": 0,
+      "typedText": " TPHEFRBLZ",
+      "material": "nerves",
+      "markedCorrect": false,
+      "hint": "TPHEFRBZ"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 37895,
+      "wordsPerMinute": 2.2166512732550463,
+      "typedText": " nervous",
+      "material": "nerves",
+      "markedCorrect": false,
+      "hint": "TPHEFRBZ"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 37895,
+      "wordsPerMinute": 2.2166512732550463,
+      "typedText": " nervous",
+      "material": "nerves",
+      "markedCorrect": false,
+      "hint": "TPHEFRBZ"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 37895,
+      "wordsPerMinute": 2.2166512732550463,
+      "typedText": " nerves",
+      "material": "nerves",
+      "markedCorrect": false,
+      "hint": "TPHEFRBZ"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 101737,
+      "wordsPerMinute": 1.5333654422678082,
+      "typedText": " tush",
+      "material": "torch",
+      "markedCorrect": false,
+      "hint": "TOFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 101737,
+      "wordsPerMinute": 1.5333654422678082,
+      "typedText": " TORB",
+      "material": "torch",
+      "markedCorrect": false,
+      "hint": "TOFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 101737,
+      "wordsPerMinute": 1.5333654422678082,
+      "typedText": " TOFP",
+      "material": "torch",
+      "markedCorrect": false,
+      "hint": "TOFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 101737,
+      "wordsPerMinute": 1.5333654422678082,
+      "typedText": " TO*FRPB",
+      "material": "torch",
+      "markedCorrect": false,
+      "hint": "TOFRPB"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 101737,
+      "wordsPerMinute": 1.5333654422678082,
+      "typedText": " torch",
+      "material": "torch",
+      "markedCorrect": false,
+      "hint": "TOFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 139249,
+      "wordsPerMinute": 1.6373546668198695,
+      "typedText": " purchase",
+      "material": "punch",
+      "markedCorrect": false,
+      "hint": "PUFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 139249,
+      "wordsPerMinute": 1.6373546668198695,
+      "typedText": " punk",
+      "material": "punch",
+      "markedCorrect": false,
+      "hint": "PUFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 139249,
+      "wordsPerMinute": 1.6373546668198695,
+      "typedText": " pinch",
+      "material": "punch",
+      "markedCorrect": false,
+      "hint": "PUFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 139249,
+      "wordsPerMinute": 1.6373546668198695,
+      "typedText": " bunch",
+      "material": "punch",
+      "markedCorrect": false,
+      "hint": "PUFRPB"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 139249,
+      "wordsPerMinute": 1.6373546668198695,
+      "typedText": " punch",
+      "material": "punch",
+      "markedCorrect": false,
+      "hint": "PUFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 186652,
+      "wordsPerMinute": 1.6072691425754881,
+      "typedText": " sever",
+      "material": "serve",
+      "markedCorrect": false,
+      "hint": "SEFRB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 186652,
+      "wordsPerMinute": 1.6072691425754881,
+      "typedText": " search",
+      "material": "serve",
+      "markedCorrect": false,
+      "hint": "SEFRB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 186652,
+      "wordsPerMinute": 1.6072691425754881,
+      "typedText": " certain",
+      "material": "serve",
+      "markedCorrect": false,
+      "hint": "SEFRB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 186652,
+      "wordsPerMinute": 1.6072691425754881,
+      "typedText": " serf",
+      "material": "serve",
+      "markedCorrect": false,
+      "hint": "SEFRB"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 186652,
+      "wordsPerMinute": 1.6072691425754881,
+      "typedText": " serve",
+      "material": "serve",
+      "markedCorrect": false,
+      "hint": "SEFRB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 217451,
+      "wordsPerMinute": 1.8762847722015534,
+      "typedText": " PWHRAFRB",
+      "material": "branches",
+      "markedCorrect": false,
+      "hint": "PWRAFRPBS"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 217451,
+      "wordsPerMinute": 1.8762847722015534,
+      "typedText": " PWRAFRB",
+      "material": "branches",
+      "markedCorrect": false,
+      "hint": "PWRAFRPBS"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 217451,
+      "wordsPerMinute": 1.8762847722015534,
+      "typedText": " PWRA*FRPBGSZ",
+      "material": "branches",
+      "markedCorrect": false,
+      "hint": "PWRAFRPBS"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 217451,
+      "wordsPerMinute": 1.8762847722015534,
+      "typedText": " branches",
+      "material": "branches",
+      "markedCorrect": false,
+      "hint": "PWRAFRPBS"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 240639,
+      "wordsPerMinute": 2.0445563686684203,
+      "typedText": "ing",
+      "material": "jumped",
+      "markedCorrect": false,
+      "hint": "SKWR*UPLD"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 240639,
+      "wordsPerMinute": 2.0445563686684203,
+      "typedText": " judgment",
+      "material": "jumped",
+      "markedCorrect": false,
+      "hint": "SKWR*UPLD"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 240639,
+      "wordsPerMinute": 2.0445563686684203,
+      "typedText": " SKWRUPLTDZ",
+      "material": "jumped",
+      "markedCorrect": false,
+      "hint": "SKWR*UPLD"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 240639,
+      "wordsPerMinute": 2.0445563686684203,
+      "typedText": " jumped",
+      "material": "jumped",
+      "markedCorrect": false,
+      "hint": "SKWR*UPLD"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 261601,
+      "wordsPerMinute": 2.1559550613338634,
+      "typedText": "s",
+      "material": "lamps",
+      "markedCorrect": false,
+      "hint": "HRA*PLS"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 261601,
+      "wordsPerMinute": 2.1559550613338634,
+      "typedText": " L.A.s",
+      "material": "lamps",
+      "markedCorrect": false,
+      "hint": "HRA*PLS"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 261601,
+      "wordsPerMinute": 2.1559550613338634,
+      "typedText": " lamps",
+      "material": "lamps",
+      "markedCorrect": false,
+      "hint": "HRA*PLS"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 290465,
+      "wordsPerMinute": 2.1482794828981118,
+      "typedText": "es",
+      "material": "arch",
+      "markedCorrect": false,
+      "hint": "AFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 290465,
+      "wordsPerMinute": 2.1482794828981118,
+      "typedText": " AFRB ever",
+      "material": "arch",
+      "markedCorrect": false,
+      "hint": "AFRPB"
+    },
+    {
+      "attemptPeak": true,
+      "elapsedTime": 290465,
+      "wordsPerMinute": 2.1482794828981118,
+      "typedText": " African",
+      "material": "arch",
+      "markedCorrect": false,
+      "hint": "AFRPB"
+    },
+    {
+      "attemptPeak": false,
+      "elapsedTime": 290465,
+      "wordsPerMinute": 2.1482794828981118,
+      "typedText": " arch",
+      "material": "arch",
+      "markedCorrect": false,
+      "hint": "AFRPB"
+    }
+  ]
+}

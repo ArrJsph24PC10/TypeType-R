@@ -1,0 +1,8 @@
+Intro lesson
+One-Syllable Words
+'had': HAD
+'Hag': KPA*/HAG
+'half': HAF
+case_sensitive=false
+notice_spaces=true
+warning_message=Welcome to the Typey Type alpha. This is a test lesson.
